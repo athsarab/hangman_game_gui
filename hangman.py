@@ -14,7 +14,7 @@ class HangmanGame:
             "Countries": ["canada", "brazil", "japan", "australia", "germany"],
             "Programming": ["python", "javascript", "algorithm", "function", "variable"]
         }
-        
+         
         self.word = ""
         self.guessed_letters = []
         self.attempts_left = 6
