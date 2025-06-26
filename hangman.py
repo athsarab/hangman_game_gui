@@ -121,7 +121,7 @@ class HangmanGame:
             text="New Game", 
             command=self.new_game, 
             font=("Arial", 12), 
-            bg="#2196F3", 
+            bg="#0B3455", 
             fg="white"
         ).pack(side="left", padx=10)
         
