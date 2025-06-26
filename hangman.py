@@ -99,7 +99,7 @@ class HangmanGame:
             bg="#f0f0f0"
         )
         self.guessed_label.grid(row=2, column=0, columnspan=2, pady=10)
-        
+         
         # Keyboard buttons
         self.setup_keyboard()
         
